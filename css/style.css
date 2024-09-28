@@ -40,7 +40,7 @@ a.more {
 .custom-navbar {
   background: var(--main-color) !important;
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 5rem;
 }
 .custom-navbar .navbar-brand {
   font-size: 32px;
